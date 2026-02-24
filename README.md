@@ -1,115 +1,86 @@
-# Himanshu Sharma
+<!-- HERO -->
 
-### Senior Backend Engineer | Laravel • Node.js • Microservices
+<h1 align="center">Himanshu Sharma</h1>
+<h3 align="center">Senior Backend Engineer • Laravel • Node.js • Distributed Systems</h3>
 
-Backend engineer with 10+ years of experience building high-availability enterprise platforms, banking systems, and high-traffic sports infrastructure.
-
-Specialized in scalable architecture, performance optimisation, secure API design, and legacy system refactoring.
+<p align="center">
+Backend engineer with 10+ years experience designing high-availability enterprise systems, banking platforms, and high-traffic production infrastructure.
+</p>
 
 ---
 
-## 🧠 Professional Summary
+## 🧠 Engineering Profile
 
 * 10+ years backend engineering experience
 * Expert in Laravel, PHP 8, Node.js, Redis, MySQL optimisation
-* Designed systems used by banks, telecom, and large-scale consumer platforms
-* Experience with high-concurrency systems serving millions of users
-* Strong focus on production stability, performance tuning, and architecture
+* Built production systems for banking, sports platforms, CRM infrastructure
+* Experience handling millions of users & high concurrency traffic
+* Specialised in performance optimisation, architecture refactoring, and secure APIs
 
 ---
 
-## 🏢 Current Role
+## 🏢 Production Systems Experience
 
-### Senior Backend Consultant — Cobox Technologies
+### 🏦 Banking Infrastructure
 
-Leading backend architecture and system design.
+Customer 360 platform, automated service processing, secure onboarding flows.
 
-### Jyotirling.com
+### 🏏 High-Traffic Sports Platform
 
-Pilgrimage booking and devotional platform.
+Official IPL digital ecosystem handling massive live concurrency.
 
-Key engineering work:
+### 🏭 Enterprise Dealer CRM
 
-* Designed dynamic slot allocation engine using Redis
-* Built scalable notification service handling large alert volumes
-* Integrated multi-vendor hotel APIs into unified booking system
+Real-time inventory sync across hundreds of locations.
 
----
+### 🛕 SaaS Booking Platform
 
-## 🏦 Enterprise Experience
-
-### Axis Bank — Customer 360 Platform
-
-* Built microservices aggregating data from multiple banking systems
-* Engineered automated service workflows reducing manual branch effort
-* Implemented secure e-KYC authentication flows
-* Applied OWASP security with JWT encrypted payloads
+Full backend architecture for pilgrimage booking, slot allocation engine, and scalable notifications.
 
 ---
 
-### Hero MotoCorp — Enterprise CRM Middleware
+## ⚙️ Core Engineering Stack
 
-* Developed real-time dealer sync system across 500+ locations
-* Reduced API latency by 40% through database optimisation
+**Backend:**
+Laravel • PHP • Node.js • Express
 
----
+**Data:**
+MySQL optimisation • Redis caching • MongoDB
 
-## 🏏 High-Traffic Systems
+**Architecture:**
+Microservices • Event-driven systems • REST APIs • SOLID
 
-### BCCI / IPLT20 Official Platform
-
-* Served APIs for millions of concurrent users
-* Implemented Redis + Varnish caching architecture
-* Built automated video processing backend
-* Optimized sharded database architecture
+**Cloud & DevOps:**
+AWS • Azure • CI/CD pipelines • Production debugging
 
 ---
 
-## ✈️ Travel ERP Platform
+## 📊 GitHub Metrics
 
-Built global booking infrastructure:
-
-* Amadeus GDS integration
-* Sabre API integration
-* Dynamic bundle pricing engine
-* Modular payment gateway switching
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=acutehimanshu&show_icons=true" />
+</p>
 
 ---
 
-## ⚙️ Core Technical Stack
+## 🎯 Engineering Philosophy
 
-### Backend
-
-Laravel • PHP • Node.js • Express • REST APIs
-
-### Databases
-
-MySQL optimisation • Redis • MongoDB
-
-### Architecture
-
-Microservices • Event-Driven Systems • SOLID principles
-
-### DevOps
-
-AWS • Azure • CI/CD pipelines
+* Production stability over quick hacks
+* Performance before feature bloat
+* Clean architecture over framework dependency
+* Systems built to scale, not just deploy
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Professional Focus
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acutehimanshu\&show_icons=true)
+Building backend systems that:
 
----
-
-## 🎯 Engineering Focus
-
-* Performance-critical backend systems
-* High concurrency architecture
-* Database optimisation & scaling
-* Secure enterprise APIs
-* Large production system stabilisation
+✔ survive real production traffic
+✔ scale under enterprise load
+✔ maintain security standards
+✔ remain maintainable long-term
 
 ---
 
-⭐ *I build backend systems that survive real production load — not just development demos.*
+⭐ *Serious backend engineering is about reliability, scalability, and clean architecture.*
